@@ -11,3 +11,9 @@ wheels/
 
 # Cursor IDE configuration
 .cursor/
+
+# System files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
